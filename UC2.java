@@ -1,4 +1,4 @@
-public class Main {
+public class UC2 {
     public class UC2PrintBanner {
 
     public static void main(String[] args) {
