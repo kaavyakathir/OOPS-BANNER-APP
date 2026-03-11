@@ -1,4 +1,4 @@
-public class uc3 {
+public class UC3 {
 
     public static void main(String[] args) {
 
@@ -45,3 +45,4 @@ public class uc3 {
                 " ***** "));
     }
 }
+
